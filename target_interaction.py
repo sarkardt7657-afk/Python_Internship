@@ -13,5 +13,4 @@ def check_interaction(drug, target):
 
 drug = str(input("Enter Drug: "))
 target = str(input("Enter Target: "))
-
 print(check_interaction(drug,target))
