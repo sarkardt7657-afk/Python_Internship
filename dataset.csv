@@ -1,0 +1,11 @@
+Drug,Target,Interaction,Type
+aspirin,COX1,1,Inhibitor
+aspirin,COX2,1,Inhibitor
+ibuprofen,COX1,1,Inhibitor
+ibuprofen,COX2,1,Inhibitor
+paracetamol,COX2,1,Weak Inhibitor
+metformin,AMPK,1,Activator
+atorvastatin,HMGCR,1,Inhibitor
+captopril,ACE,1,Inhibitor
+losartan,AT1_Receptor,1,Antagonist
+caffeine,Adenosine_Receptor,1,Antagonist
