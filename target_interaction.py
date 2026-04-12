@@ -9,7 +9,7 @@ def check_interaction(drug, target):
         interaction = result.iloc[0]
         return f"Found, Type: {interaction["Type"]}"
     else:
-        "Not Found"
+        return "Not Found"
 
 drug = str(input("Enter Drug: "))
 target = str(input("Enter Target: "))
